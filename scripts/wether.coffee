@@ -1,8 +1,5 @@
 # Description:
-#   千葉県の2日分の天気予報を表示
-#
-# Notes:
-#   "天気予報"と発言する
+#   "天気予報"と発言すると千葉県の2日分の天気予報を表示
 
 parser = require 'json-parser'
 request = require 'request'

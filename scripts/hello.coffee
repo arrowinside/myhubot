@@ -1,8 +1,5 @@
 # Description:
-#   hello
-#
-# Notes:
-#   はろー -> コンニチハ
+#   おすし
 
 getTime = ->
  d = new Date

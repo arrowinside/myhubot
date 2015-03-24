@@ -1,8 +1,5 @@
 # Description:
-#   hello
-#
-# Notes:
-#   はろー -> コンニチハ
+#  "yanabot help" "yanabot -h"でヘルプを表示
 
 
 module.exports = (robot) ->

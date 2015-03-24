@@ -1,8 +1,5 @@
 # Description:
-#   hello
-#
-# Notes:
-#   はろー -> コンニチハ
+#   はてブ200以上の記事をランダムに取得
 
 parser = require 'parse-rss'
 
