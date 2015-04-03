@@ -12,3 +12,6 @@ module.exports = (robot) ->
     robot.hear /ねむい/, (msg) ->
         nowTime = getTime()
         msg.reply "そうですね、もう#{nowTime}ですしおすし。"
+
+    robot.hear /^:curry:/, (msg) ->
+        msg.send ':rice:'
